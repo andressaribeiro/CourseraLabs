@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="Rerun course.labs.locationlab.tests.TestNoCountryLocation.testRun " project="LocationLabTest" tests="1" started="1" failures="0" errors="0" ignored="0">
+  <testsuite name="motorola-xt1033-0425919409" time="7.812">
+    <testsuite name="course.labs.locationlab.tests.TestNoCountryLocation" time="7.812">
+      <testcase name="testRun " classname="course.labs.locationlab.tests.TestNoCountryLocation" time="7.812"/>
+    </testsuite>
+  </testsuite>
+</testrun>

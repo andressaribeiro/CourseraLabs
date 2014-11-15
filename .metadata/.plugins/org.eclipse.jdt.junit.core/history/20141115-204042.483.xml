@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="LocationLabTest (1)" project="LocationLabTest" tests="4" started="4" failures="0" errors="0" ignored="0">
+  <testsuite name="motorola-xt1033-0425919409" time="38.606">
+    <testsuite name="course.labs.locationlab.tests.TestNoCountryLocation" time="7.496">
+      <testcase name="testRun " classname="course.labs.locationlab.tests.TestNoCountryLocation" time="7.496"/>
+    </testsuite>
+    <testsuite name="course.labs.locationlab.tests.TestOneValidLocation" time="5.542">
+      <testcase name="testRun " classname="course.labs.locationlab.tests.TestOneValidLocation" time="5.542"/>
+    </testsuite>
+    <testsuite name="course.labs.locationlab.tests.TestSameLocation" time="11.687">
+      <testcase name="testRun " classname="course.labs.locationlab.tests.TestSameLocation" time="11.687"/>
+    </testsuite>
+    <testsuite name="course.labs.locationlab.tests.TestTwoValidLocations" time="13.881">
+      <testcase name="testRun " classname="course.labs.locationlab.tests.TestTwoValidLocations" time="13.881"/>
+    </testsuite>
+  </testsuite>
+</testrun>
